@@ -1,0 +1,83 @@
+.header{
+    background-color:white;
+}
+h1{
+    background-color:#4aaaa5; 
+    padding:20px;
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size:150%;
+    position: relative;
+    bottom:-15px;
+}
+
+.nav-item{
+    color:grey;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h2{
+    color:4aaaa5;
+    padding:0px 10px 10px 20px;   
+    clear:both;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size:150%;
+    font-weight:bold;
+    }
+
+.footerz{
+        background-color:#666666;
+        height:50px;
+        width:100%;
+        padding-top:0px;
+        color:lightgrey;
+        border-top: 10px solid #4aaaa5;
+        margin-top: 20px;
+        position:fixed;
+        bottom:0;
+}
+
+p{
+    font-family: sans-serif;
+    color: grey;
+    line-height:30px;
+    text-indent:50px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.middleSection{
+    background-color:white;
+    padding:30px 30px 30px 30px;
+}
+
+#contactMessage{
+    width:100%;
+    padding:5px 10px;
+    height:20%;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#contactName{
+    width:100%;
+    padding:5px 10px 10px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+#contactEmail{
+    width:100%;
+    padding:5px 10px 10px;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+h3{
+    background-color: #4aaaa5;
+    color:white;
+    padding: 10px 0px 10px 0px;
+    text-align:center;
+    position: relative;
+    bottom:70px;
+    width:200px;
+    opacity: 0.9;
+    font-size:20;
+}
+   
